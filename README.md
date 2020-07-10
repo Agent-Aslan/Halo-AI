@@ -1,2 +1,7 @@
 # Halo-AI
-Code for REG hub and XYO integration
+Code for H.A.L.O. ND-AI
+
+Hypercube
+Algorithmic
+Language 
+Oracle 
