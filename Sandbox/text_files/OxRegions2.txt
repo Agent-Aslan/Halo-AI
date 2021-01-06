@@ -1,0 +1,236 @@
+Aruba,all,0
+Afghanistan,all,0
+Angola,all,0
+Albania,all,0
+Andorra,all,0
+United Arab Emirates,all,0
+Argentina,all,0
+Australia,all,0
+Austria,all,0
+Azerbaijan,all,0
+Burundi,all,0
+Belgium,all,0
+Benin,all,0
+Burkina Faso,all,0
+Bangladesh,all,0
+Bulgaria,all,0
+Bahrain,all,0
+Bahamas,all,0
+Bosnia and Herzegovina,all,0
+Belarus,all,0
+Belize,all,0
+Bermuda,all,0
+Bolivia,all,0
+Brazil,all,0
+Barbados,all,0
+Brunei,all,0
+Bhutan,all,0
+Botswana,all,0
+Central African Republic,all,0
+Canada,all,1
+Switzerland,all,1
+Chile,all,0
+China,all,0
+Cote d'Ivoire,all,0
+Cameroon,all,0
+Democratic Republic of Congo,all,0
+Congo,all,0
+Colombia,all,0
+Comoros,all,0
+Cape Verde,all,0
+Costa Rica,all,0
+Cuba,all,0
+Cyprus,all,0
+Czech Republic,all,0
+Germany,all,0
+Djibouti,all,0
+Dominica,all,0
+Denmark,all,1
+Dominican Republic,all,0
+Algeria,all,0
+Ecuador,all,0
+Egypt,all,0
+Eritrea,all,0
+Spain,all,1
+Estonia,all,0
+Ethiopia,all,0
+Finland,all,1
+Fiji,all,0
+France,all,0
+Faeroe Islands,all,0
+Gabon,all,0
+United Kingdom,all,0
+United Kingdom,England,1
+United Kingdom,Northern Ireland,0
+United Kingdom,Scotland,0
+United Kingdom,Wales,0
+Georgia,all,0
+Ghana,all,0
+Guinea,all,0
+Gambia,all,0
+Greece,all,0
+Greenland,all,0
+Guatemala,all,0
+Guam,all,0
+Guyana,all,0
+Hong Kong,all,0
+Honduras,all,0
+Croatia,all,0
+Haiti,all,0
+Hungary,all,0
+Indonesia,all,0
+India,all,0
+Ireland,all,0
+Iran,all,0
+Iraq,all,0
+Iceland,all,0
+Israel,all,0
+Italy,all,0
+Jamaica,all,0
+Jordan,all,0
+Japan,all,0
+Kazakhstan,all,0
+Kenya,all,0
+Kyrgyz Republic,all,0
+Cambodia,all,0
+South Korea,all,1
+Kuwait,all,0
+Laos,all,0
+Lebanon,all,0
+Liberia,all,0
+Libya,all,0
+Sri Lanka,all,0
+Lesotho,all,0
+Lithuania,all,0
+Luxembourg,all,0
+Latvia,all,0
+Macao,all,0
+Morocco,all,0
+Monaco,all,0
+Moldova,all,0
+Madagascar,all,0
+Mexico,all,0
+Mali,all,0
+Myanmar,all,0
+Mongolia,all,0
+Mozambique,all,0
+Mauritania,all,0
+Mauritius,all,0
+Malawi,all,0
+Malaysia,all,0
+Namibia,all,0
+Niger,all,0
+Nigeria,all,0
+Nicaragua,all,0
+Netherlands,all,1
+Norway,all,1
+Nepal,all,0
+New Zealand,all,0
+Oman,all,0
+Pakistan,all,0
+Panama,all,0
+Peru,all,0
+Philippines,all,0
+Papua New Guinea,all,0
+Poland,all,0
+Puerto Rico,all,0
+Portugal,all,0
+Paraguay,all,0
+Palestine,all,0
+Qatar,all,0
+Kosovo,all,0
+Romania,all,0
+Russia,all,1
+Rwanda,all,0
+Saudi Arabia,all,0
+Sudan,all,0
+Senegal,all,0
+Singapore,all,0
+Solomon Islands,all,0
+Sierra Leone,all,0
+El Salvador,all,0
+San Marino,all,0
+Somalia,all,0
+Serbia,all,0
+South Sudan,all,0
+Suriname,all,0
+Slovak Republic,all,0
+Slovenia,all,0
+Sweden,all,0
+Eswatini,all,0
+Seychelles,all,0
+Syria,all,0
+Chad,all,0
+Togo,all,0
+Thailand,all,0
+Tajikistan,all,0
+Timor-Leste,all,0
+Trinidad and Tobago,all,0
+Tunisia,all,0
+Turkey,all,0
+Taiwan,all,1
+Tanzania,all,0
+Uganda,all,0
+Ukraine,all,0
+Uruguay,all,0
+United States,all,0
+United States,Alaska,0
+United States,Alabama,0
+United States,Arkansas,0
+United States,Arizona,0
+United States,California,1
+United States,Colorado,0
+United States,Connecticut,0
+United States,Washington DC,0
+United States,Delaware,0
+United States,Florida,0
+United States,Georgia,0
+United States,Hawaii,0
+United States,Iowa,0
+United States,Idaho,0
+United States,Illinois,0
+United States,Indiana,0
+United States,Kansas,0
+United States,Kentucky,0
+United States,Louisiana,0
+United States,Massachusetts,0
+United States,Maryland,0
+United States,Maine,0
+United States,Michigan,0
+United States,Minnesota,0
+United States,Missouri,0
+United States,Mississippi,0
+United States,Montana,0
+United States,North Carolina,0
+United States,North Dakota,0
+United States,Nebraska,0
+United States,New Hampshire,0
+United States,New Jersey,1
+United States,New Mexico,0
+United States,Nevada,0
+United States,New York,0
+United States,Ohio,1
+United States,Oklahoma,0
+United States,Oregon,0
+United States,Pennsylvania,0
+United States,Rhode Island,0
+United States,South Carolina,0
+United States,South Dakota,0
+United States,Tennessee,0
+United States,Texas,0
+United States,Utah,0
+United States,Virginia,0
+United States,Virgin Islands,0
+United States,Vermont,0
+United States,Washington,0
+United States,Wisconsin,1
+United States,West Virginia,0
+United States,Wyoming,0
+Uzbekistan,all,0
+Venezuela,all,0
+Vietnam,all,0
+Vanuatu,all,0
+Yemen,all,0
+South Africa,all,0
+Zambia,all,0
+Zimbabwe,all,0
